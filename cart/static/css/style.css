@@ -20,6 +20,7 @@ a {
 .old_price {
   font-weight: bold;
   color: red;
+  background-color: black;
 }
 
 .new_price {
